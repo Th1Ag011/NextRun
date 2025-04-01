@@ -398,3 +398,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Ignora config sensível do backend
+NextRun.Core/NextRun.Controllers/appsettings.Development.json
